@@ -1,0 +1,9 @@
+{
+  "showLineNumber": true,
+  "attachmentFolderPath": "__src__/attachments",
+  "readableLineLength": true,
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
+}
